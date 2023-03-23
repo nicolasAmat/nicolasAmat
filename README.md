@@ -19,7 +19,7 @@ Download my [resumé](https://homepages.laas.fr/namat/media/Amat_CV.pdf).
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasAmat&repo=uSMPT&theme=tokyonight)](https://github.com/adriencaccia/uSMPT)
 
-## 📖 Articles
+## 📖 Publications
 
 My publications tracked by [DBLP](https://dblp.org/pid/290/7553.html)
 
