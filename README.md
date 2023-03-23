@@ -21,7 +21,7 @@ Download my [resumé](https://homepages.laas.fr/namat/media/Amat_CV.pdf).
 
 ## 📖 Publications
 
-My publications tracked by [DBLP](https://dblp.org/pid/290/7553.html)
+My publications tracked by [DBLP](https://dblp.org/pid/290/7553.html).
 
 ### Journal Papers
 
