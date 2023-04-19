@@ -10,14 +10,14 @@ Download my [resumé](https://homepages.laas.fr/namat/media/Amat_CV.pdf).
 
 ### Open Source Software
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasAmat&repo=SMPT&theme=tokyonight)](https://github.com/nicolasAmat/SMPT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasAmat&repo=Kong&theme=tokyonight)](https://github.com/nicolasAmat/Kong)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasAmat&repo=Reductron&theme=tokyonight)](https://github.com/nicolasAmat/Reductron)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasAmat&repo=tipx&theme=tokyonight)](https://github.com/nicolasAmat/tipx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasAmat&repo=SMPT&theme=transparent)](https://github.com/nicolasAmat/SMPT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasAmat&repo=Kong&theme=transparent)](https://github.com/nicolasAmat/Kong)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasAmat&repo=Reductron&theme=transparent)](https://github.com/nicolasAmat/Reductron)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasAmat&repo=tipx&theme=transparent)](https://github.com/nicolasAmat/tipx)
 
 ### Education Materiels
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasAmat&repo=uSMPT&theme=tokyonight)](https://github.com/nicolasAmat/uSMPT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasAmat&repo=uSMPT&theme=transparent)](https://github.com/nicolasAmat/uSMPT)
 
 ## 📖 Publications
 
