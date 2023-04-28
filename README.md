@@ -28,17 +28,17 @@ My publications tracked by [DBLP](https://dblp.org/pid/290/7553.html).
 #### 2023
 
 - Amat, N, Bouvier, P, Garavel, H. [A Toolchain to Compute Concurrent Places of Petri Nets](https://www.springer.com/gp/computer-science/lncs/lncs-transactions/petri-nets-and-other-models-of-concurrency-topnoc-/731240). *Petri Nets and Other Models of Concurrency (ToPNoC), To appear.*
-- Amat, N, Dal Zilio, S, Le Botlan, L. [Leveraging polyhedral reductions for solving Petri net reachability problems](https://doi.org/10.1007/s10009-022-00694-8). *International Journal on Software Tools for Technology Transfer (STTT)*.
+- Amat, N, Dal Zilio, S, Le Botlan, D. [Leveraging polyhedral reductions for solving Petri net reachability problems](https://doi.org/10.1007/s10009-022-00694-8). *International Journal on Software Tools for Technology Transfer (STTT)*.
 
 #### 2022
 
-- Amat, N, Berthomieu, B, Dal Zilio, D. [A Polyhedral Abstraction for Petri Nets and its Application to SMT-Based Model Checking](https://doi.org/10.3233/FI-222134). *Fundamenta Informaticae (FI)*.
+- Amat, N, Berthomieu, B, Dal Zilio, S. [A Polyhedral Abstraction for Petri Nets and its Application to SMT-Based Model Checking](https://doi.org/10.3233/FI-222134). *Fundamenta Informaticae (FI)*.
 
 ### Conference Papers
 
 #### 2023
 
-- Amat, N, Dal Zilio, S, Le Botlan, L. [Automated Polyhedral Abstraction Proving](https://petrinets2023.deec.fct.unl.pt/). *Application and Theory of Petri Nets and Concurrency (Petri Nets 2023), To appear*.
+- Amat, N, Dal Zilio, S, Le Botlan, D. [Automated Polyhedral Abstraction Proving](https://petrinets2023.deec.fct.unl.pt/). *Application and Theory of Petri Nets and Concurrency (Petri Nets 2023), To appear*.
 - Amat, N, Dal Zilio, S. [SMPT: A Testbed for Reachability Methods in Generalized Petri Nets](https://doi.org/10.1007/978-3-031-27481-7_25). *Formal Methods (FM 2023)*.
   
 #### 2022
@@ -48,6 +48,6 @@ My publications tracked by [DBLP](https://dblp.org/pid/290/7553.html).
 
 #### 2021
 
-- Amat, N, Dal Zilio, S, Le Botlan, L. [Accelerating the Computation of Dead and Concurrent Places Using Reductions](https://doi.org/10.1007/978-3-030-84629-9_3). *Model Checking Software (SPIN 2021)*.
-- Amat, N, Berthomieu, B, Dal Zilio, D. [On the Combination of Polyhedral Abstraction and SMT-Based Model Checking for Petri Nets](https://doi.org/10.1007/978-3-030-76983-3_9). *Application and Theory of Petri Nets and Concurrency (Petri Nets 2021)*.
+- Amat, N, Dal Zilio, S, Le Botlan, D. [Accelerating the Computation of Dead and Concurrent Places Using Reductions](https://doi.org/10.1007/978-3-030-84629-9_3). *Model Checking Software (SPIN 2021)*.
+- Amat, N, Berthomieu, B, Dal Zilio, S. [On the Combination of Polyhedral Abstraction and SMT-Based Model Checking for Petri Nets](https://doi.org/10.1007/978-3-030-76983-3_9). *Application and Theory of Petri Nets and Concurrency (Petri Nets 2021)*.
     
