@@ -4,7 +4,7 @@ I am a PhD student at LAAS-CNRS (VERTICS group), in France. My research interest
 model-checking, SAT/SMT solving and logic methods in computer science. I am
 currently working on new methods for taking advantage of Petri net reductions in combination with a SMT-based model-checker.
 
-Download my [resumé](https://homepages.laas.fr/namat/media/Amat_CV.pdf).
+Download my [resumé](https://homepages.laas.fr/namat/media/Amat_CV.pdf) and visit my [homepage](http://www.laas.fr/~namat).
 
 ## 🔭 Open Science
 
