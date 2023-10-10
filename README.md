@@ -38,7 +38,7 @@ My publications tracked by [DBLP](https://dblp.org/pid/290/7553.html).
 
 #### 2023
 
-- Amat, N, Dal Zilio, S, Le Botlan, D. [Automated Polyhedral Abstraction Proving](https://petrinets2023.deec.fct.unl.pt/). *Application and Theory of Petri Nets and Concurrency (Petri Nets 2023), To appear*.
+- Amat, N, Dal Zilio, S, Le Botlan, D. [Automated Polyhedral Abstraction Proving](https://doi.org/10.1007/978-3-031-33620-1_18). *Application and Theory of Petri Nets and Concurrency (Petri Nets 2023).
 - Amat, N, Dal Zilio, S. [SMPT: A Testbed for Reachability Methods in Generalized Petri Nets](https://doi.org/10.1007/978-3-031-27481-7_25). *Formal Methods (FM 2023)*.
   
 #### 2022
@@ -51,3 +51,7 @@ My publications tracked by [DBLP](https://dblp.org/pid/290/7553.html).
 - Amat, N, Dal Zilio, S, Le Botlan, D. [Accelerating the Computation of Dead and Concurrent Places Using Reductions](https://doi.org/10.1007/978-3-030-84629-9_3). *Model Checking Software (SPIN 2021)*.
 - Amat, N, Berthomieu, B, Dal Zilio, S. [On the Combination of Polyhedral Abstraction and SMT-Based Model Checking for Petri Nets](https://doi.org/10.1007/978-3-030-76983-3_9). *Application and Theory of Petri Nets and Concurrency (Petri Nets 2021)*.
     
+### Preprints
+
+- Amat, N, Le Botlan, D, Dal Zilio, S. Project and Conquer: Fast Quantifier Elimination for Checking Petri Nets Reachability. *Submitted*.
+- Amat, N, Amparore, E, Berthomieu, B, Bouvier, P, Dal Zilio, S, Jensen, P, Jezequel, L, Kordon, F, Li, S, Paviot-Adet, E, Srba, J, Thierry-Mieg, Y, Wolf, K. Behind the Scene of the Model Checking Contest, Analysis of Results from 2018 to 2023. *Submitted*.
