@@ -36,15 +36,18 @@ My publications tracked by [DBLP](https://dblp.org/pid/290/7553.html).
 
 ### Conference Papers
 
+#### 2024
+- Amat, N, Le Botlan, D, Dal Zilio, S. Project and Conquer: Fast Quantifier Elimination for Checking Petri Nets Reachability. *International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI 2024), To appear.* 
+
 #### 2023
 
-- Amat, N, Dal Zilio, S, Le Botlan, D. [Automated Polyhedral Abstraction Proving](https://doi.org/10.1007/978-3-031-33620-1_18). *Application and Theory of Petri Nets and Concurrency (Petri Nets 2023).
+- Amat, N, Dal Zilio, S, Le Botlan, D. [Automated Polyhedral Abstraction Proving](https://doi.org/10.1007/978-3-031-33620-1_18). *Application and Theory of Petri Nets and Concurrency (Petri Nets 2023)*.
 - Amat, N, Dal Zilio, S. [SMPT: A Testbed for Reachability Methods in Generalized Petri Nets](https://doi.org/10.1007/978-3-031-27481-7_25). *Formal Methods (FM 2023)*.
   
 #### 2022
 
 - Amat, N, Dal Zilio, S, Hujsa, T. [Property Directed Reachability for Generalized Petri Nets](https://doi.org/10.1007/978-3-030-99524-9_28). *Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2022)*.
-- Amat, N, Chauvet, L. [Kong: A Tool to Squash Concurrent Places](https://doi.org/10.1007/978-3-031-06653-5_6). Application and Theory of Petri Nets and Concurrency (Petri Nets 2022).
+- Amat, N, Chauvet, L. [Kong: A Tool to Squash Concurrent Places](https://doi.org/10.1007/978-3-031-06653-5_6). *Application and Theory of Petri Nets and Concurrency (Petri Nets 2022)*.
 
 #### 2021
 
@@ -53,5 +56,4 @@ My publications tracked by [DBLP](https://dblp.org/pid/290/7553.html).
     
 ### Preprints
 
-- Amat, N, Le Botlan, D, Dal Zilio, S. Project and Conquer: Fast Quantifier Elimination for Checking Petri Nets Reachability. *Submitted*.
 - Amat, N, Amparore, E, Berthomieu, B, Bouvier, P, Dal Zilio, S, Jensen, P, Jezequel, L, Kordon, F, Li, S, Paviot-Adet, E, Srba, J, Thierry-Mieg, Y, Wolf, K. Behind the Scene of the Model Checking Contest, Analysis of Results from 2018 to 2023. *Submitted*.
