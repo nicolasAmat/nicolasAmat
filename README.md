@@ -4,7 +4,7 @@ I am currently a postdoctoral researcher at the IMDEA Software Institute, workin
 I am interested in theoretical computer science, with a special interest in the theory and applications of decision procedures for formal verification.
 I completed my PhD at LAAS-CNRS, where I worked on new methods for taking advantage of Petri net reductions with an SMT-based model checker.  
 
-Download my [resumé](https://homepages.laas.fr/namat/media/Amat_CV.pdf) and visit my [homepage](http://www.laas.fr/~namat).
+Download my [resumé](https://nicolasamat.github.io/media/Amat_CV.pdf) and visit my [homepage](https://nicolasamat.github.io/).
 
 ## 🔭 Open Science
 
