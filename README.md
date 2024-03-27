@@ -57,4 +57,4 @@ My publications tracked by [DBLP](https://dblp.org/pid/290/7553.html).
 ### Preprints
 
 - Amat, N, Dal Zilio, S, Le Botlan, D. On the Complexity of Proving Polyhedral Reductions. *Submitted*.
-- Amat, N, Amparore, E, Berthomieu, B, Bouvier, P, Dal Zilio, S, Jensen, P, Jezequel, L, Kordon, F, Li, S, Paviot-Adet, E, Srba, J, Thierry-Mieg, Y, Wolf, K. Behind the Scene of the Model Checking Contest, Analysis of Results from 2018 to 2023. *Submitted*.
+- Amat, N, Amparore, E, Berthomieu, B, Bouvier, P, Dal Zilio, S, Jensen, P, Jezequel, L, Kordon, F, Li, S, Paviot-Adet, E, Srba, J, Thierry-Mieg, Y, Wolf, K. Behind the Scene of the Model Checking Contest, Analysis of Results from 2018 to 2023. *TOOLympics 2023, Part III of the Proceedings of the 29th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2023) (to appear)* 
