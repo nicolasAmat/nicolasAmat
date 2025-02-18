@@ -1,7 +1,9 @@
 ## Nicolas Amat
 
-I am currently a postdoctoral researcher at the IMDEA Software Institute, working on new solving techniques for Presburger arithmetic (under the supervision of Pierre Ganty and Alessio Mansutti).
-I am interested in theoretical computer science, with a special interest in the theory and applications of decision procedures for formal verification.
+I am a research scientist at ONERA (The French Aerospace Lab) in Toulouse. I am interested in theoretical computer science, with a special interest in the theory and applications of decision procedures for formal verification and robotics.
+
+Previously I was a postdoctoral researcher at the IMDEA Software Institute, working on new solving techniques for Presburger arithmetic.  
+
 I completed my PhD at LAAS-CNRS, where I worked on new methods for taking advantage of Petri net reductions with an SMT-based model checker.  
 
 Download my [resumé](https://nicolasamat.github.io/media/Amat_CV.pdf) and visit my [homepage](https://nicolasamat.github.io/).
@@ -25,6 +27,10 @@ My publications tracked by [DBLP](https://dblp.org/pid/290/7553.html).
 
 ### Journal Papers
 
+#### 2024
+
+- Amat, N, Dal Zilio, S, Le Botlan, D. [On the Complexity of Proving Polyhedral Reductions](https://doi.org/10.3233/FI-242197). *Fundamenta Informaticae (FI)*.
+
 #### 2023
 
 - Amat, N, Bouvier, P, Garavel, H. [A Toolchain to Compute Concurrent Places of Petri Nets](https://doi.org/10.1007/978-3-662-68191-6_1). *Petri Nets and Other Models of Concurrency (ToPNoC)*.
@@ -36,7 +42,12 @@ My publications tracked by [DBLP](https://dblp.org/pid/290/7553.html).
 
 ### Conference Papers
 
+#### 2025
+
+- Amat, N, Amparore, E, Berthomieu, B, Bouvier, P, Dal Zilio, S, Jensen, P, Jezequel, L, Kordon, F, Li, S, Paviot-Adet, E, Srba, J, Thierry-Mieg, Y, Wolf, K. [Behind the Scene of the Model Checking Contest, Analysis of Results from 2018 to 2023](https://doi.org/10.1007/978-3-031-67695-6_3). TOOLympics Challenge 2023.
+
 #### 2024
+
 - Amat, N, Le Botlan, D, Dal Zilio, S. [Project and Conquer: Fast Quantifier Elimination for Checking Petri Nets Reachability](https://doi.org/10.1007/978-3-031-50524-9_5). *International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI 2024)*.
 
 #### 2023
@@ -53,8 +64,4 @@ My publications tracked by [DBLP](https://dblp.org/pid/290/7553.html).
 
 - Amat, N, Dal Zilio, S, Le Botlan, D. [Accelerating the Computation of Dead and Concurrent Places Using Reductions](https://doi.org/10.1007/978-3-030-84629-9_3). *Model Checking Software (SPIN 2021)*.
 - Amat, N, Berthomieu, B, Dal Zilio, S. [On the Combination of Polyhedral Abstraction and SMT-Based Model Checking for Petri Nets](https://doi.org/10.1007/978-3-030-76983-3_9). *Application and Theory of Petri Nets and Concurrency (Petri Nets 2021)*.
-    
-### Preprints
 
-- Amat, N, Dal Zilio, S, Le Botlan, D. On the Complexity of Proving Polyhedral Reductions. *Submitted*.
-- Amat, N, Amparore, E, Berthomieu, B, Bouvier, P, Dal Zilio, S, Jensen, P, Jezequel, L, Kordon, F, Li, S, Paviot-Adet, E, Srba, J, Thierry-Mieg, Y, Wolf, K. Behind the Scene of the Model Checking Contest, Analysis of Results from 2018 to 2023. *TOOLympics 2023, Part III of the Proceedings of the 29th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2023) (to appear)* 
